@@ -39,7 +39,6 @@ OPENAI_API_KEY=YOUR_API_KEY
 ```
 
 Do not commit API keys to GitHub.
-```
 
 ## Running the Programs
 
